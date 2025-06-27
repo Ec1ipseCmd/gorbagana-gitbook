@@ -32,7 +32,7 @@ Comprehensive technical documentation including:
 The official testnet faucet provides free GOR tokens for development and testing purposes:
 
 * **Amount per request**: 1 GOR token
-* **Rate limit**: 1 request per address - Rate limits apply
+* **Rate limit**: 1 request per address - Rate limits may apply
 * **Real-time balance**: Displays current faucet reserves
 * **Instant distribution**: Tokens are sent directly to your wallet address
 
