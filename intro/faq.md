@@ -20,6 +20,12 @@ When interacting with the Bridging Contract, your tokens will be locked in escro
 
 This NFT collection will be your pass to the elite ranks of the Gorbagana ecosystem, strongly encouraged to be used by Gorchain apps for airdrops and perks. These NFT's are expected to be the first bridgeable collection from Solana to Gorbagana and have the potential to allow our community to test out some features before public releases.
 
+### Where can I find the Gorbagio NFTs to purchase?
+
+{% embed url="https://magiceden.us/marketplace/gorbagio" %}
+
+{% embed url="https://www.tensor.trade/trade/gorbagio" %}
+
 ### Which wallets support Gorbagana?
 
 Currently, [Backpack](https://backpack.app/) is the primary supported wallet. Major Solana wallets like Phantom, Solflare, and others don't support custom chains yet. You'll need to use Backpack with the custom RPC feature to connect to the network. For help accessing the network, please see '[Connecting to Testnet](../network-access/connecting-to-testnet.md)'.
