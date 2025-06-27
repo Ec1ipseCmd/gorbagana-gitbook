@@ -1,6 +1,6 @@
 # What is Gorbagana?
 
-## Keeping it simple
+### Keeping it simple
 
 Gorbagana is a high-performance blockchain network forked from Solana's codebase, designed to combine meme culture energy with serious infrastructure capabilities, it's all trash!
 
@@ -10,7 +10,7 @@ Most chains are centralized, have insider MEV, and are exploitable to an extent.
 
 Gorbagana embraces the centralization transparently and gives the power back to the community to use it for games, fun experiments, and fair on-chain mechanics.
 
-## The technical trash
+### The technical trash
 
 Built on Solana's proven architecture, Gorbagana inherits:
 

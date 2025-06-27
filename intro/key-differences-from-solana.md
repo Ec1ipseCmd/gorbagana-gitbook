@@ -1,6 +1,6 @@
 # Key Differences from Solana
 
-## What Makes It Different
+### What Makes It Different
 
 While technically similar to Solana, Gorbagana operates as:
 
