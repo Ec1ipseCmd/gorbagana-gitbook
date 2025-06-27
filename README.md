@@ -32,7 +32,7 @@ Built on Solana's proven architecture, Gorbagana inherits:
 
 ### Current State
 
-Gorbagana currently runs on **Testnet v1**—a stable, production-ready test environment processing real transactions while the team prepares for **Testnet v2 (Devnet)** and finally **Mainnet** launch. The network is expected to support full ecosystem functionality including token creation, DeFi protocols, and custom program deployment.
+Gorbagana originally started on **Testnet v1**—a stable, production-ready test environment processing real transactions while the team prepared for **Testnet v2 (Devnet)** and finally **Mainnet** launch. Current chain is running on **Testnet v2 (Devnet)**. The network is expected to support full ecosystem functionality including token creation, DeFi protocols, and custom program deployment.
 
 ### The Vision
 
